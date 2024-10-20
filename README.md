@@ -2,13 +2,13 @@
 
 ## About the Project
 
-This repository focuses on classifying exoplanets using machine learning algorithms based on data from NASA. The dataset used for this project is derived from the NASA Exoplanet Archive, which provides comprehensive information on confirmed and candidate exoplanets from a variety of missions and ground-based surveys.
+This repository focuses on classifying exoplanets using machine learning algorithms based on NASA data. The dataset used for this project is derived from the NASA Exoplanet Archive, which provides comprehensive information on confirmed and candidate exoplanets from various missions and ground-based surveys.
 
 ## Data Overview
 
-	•	**Source**: NASA Exoplanet Archive
-	•	**Data Size**: The dataset contains over 9,000 observations, with multiple features capturing the characteristics of stars and planetary systems.
-	•	**Data Impurity**: The dataset contains incomplete entries, including missing data points and noise, which required significant preprocessing.
+- **Source** : NASA Exoplanet Archive
+- **Data Size** : The dataset contains over 9,000 observations, with multiple features capturing the characteristics of stars and planetary systems.
+- **Data Impurity** : The dataset contains incomplete entries, including missing data points and noise, which required significant preprocessing.
 
 ## Data Preprocessing and Imputation
 
